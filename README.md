@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello everyone 🤓
 
-<!--
-**camilaleniss/camilaleniss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full stack developer based in Colombia 🇨🇴 Founding Developer at [Noh Brazil](https://www.noh.com.br/) 🇧🇷
 
-Here are some ideas to get you started:
+I love to build meaningful products to impact LATAM, create content and learn new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!
+
+## 💻 Tech stack
+
+- Golang
+- Vue.js
+- AWS Services
+- Typescript
+
+## 🤍 Let’s connect
+
+- [Twitter](https://twitter.com/camilaleniss)
+- [Instagram](https://www.instagram.com/camilaleniss/)
+- [Linked In](https://www.linkedin.com/in/camilaleniss/)
+- [Dev.to](https://dev.to/camilaleniss)
