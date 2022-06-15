@@ -14,7 +14,7 @@ I love to build meaningful products to impact LATAM, create content and learn ne
 
 ## 🤍 Let’s connect
 
-- [Twitter](https://twitter.com/camilaleniss)
-- [Instagram](https://www.instagram.com/camilaleniss/)
+- [Twitter](https://twitter.com/ladivaloper)
+- [Instagram](https://www.instagram.com/ladivaloper/)
 - [Linked In](https://www.linkedin.com/in/camilaleniss/)
-- [Dev.to](https://dev.to/camilaleniss)
+- [Dev.to](https://dev.to/ladivaloper)
