@@ -1,6 +1,6 @@
 # Hello everyone 🤓
 
-I’m a full stack developer based in Colombia 🇨🇴 Founding Developer at [Noh Brazil](https://www.noh.com.br/) 🇧🇷
+I’m a full stack developer based in Colombia 🇨🇴
 
 
 I love to build meaningful products to impact LATAM, create content and learn new things
