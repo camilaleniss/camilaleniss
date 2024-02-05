@@ -1,9 +1,8 @@
 # Hello everyone 🤓
 
-I’m a full stack developer based in Colombia 🇨🇴
+I’m a backend developer based in Colombia 🇨🇴 Platzi teacher and happy learner
 
-
-I love to build meaningful products to impact LATAM, create content and learn new things
+I love to build meaningful products to impact LATAM, create content on social media and lift weights 
 
 ## 💻 Tech stack
 
