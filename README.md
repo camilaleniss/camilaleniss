@@ -7,7 +7,7 @@ I love to build meaningful products to impact LATAM, create content on social me
 ## 💻 Tech stack
 
 - Golang
-- Vue.js
+- Clojure
 - AWS Services
 
 ## 🤍 Let’s connect
